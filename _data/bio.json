@@ -3,13 +3,13 @@
     "name": "fish-inu",
     "label": "研究生",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "blastcorn@xxx.edu",
+    "phone": "xxx-xxxx-xxxx",
     "website": "https://fish-inu.github.io/hexo",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "本科xxx, 生物技术专业，取得理学学士学位；本科期间辅修英语第二学位，取得文学学士学位；目前于xxx攻读翻译硕士研究生，预计2021年6月毕业。",
     "location": {
-      "address": "武汉科技大学",
-      "postalCode": "96822",
+      "address": "xxx",
+      "postalCode": "430065",
       "city": "武汉",
       "countryCode": "",
       "region": "洪山区"
@@ -39,19 +39,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "自然语言处理",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "网页前端",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "数据科学",
       "keywords": [
       ]
     }
@@ -61,29 +59,25 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Python",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Linux",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "OmegaT"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "武汉科技大学",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
