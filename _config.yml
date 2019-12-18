@@ -6,7 +6,7 @@ title: fish-inu | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://fish-inu.github.io/portfolio"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ""
+baseurl: "/portfolio/"
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
