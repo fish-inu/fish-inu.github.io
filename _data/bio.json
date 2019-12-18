@@ -21,35 +21,30 @@
         "url": "http://github.com/fish-inu"
       },
       {
-        "network": "hexo",
+        "network": "pencil alternate",
         "username": "柴鱼",
         "url": "http://fish-inu.github.io/hexo"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
+    {
+    "name": "技术文档翻译",
+    "keywords": [
+      ]
+    }
     {
       "name": "自然语言处理",
       "keywords": [
       ]
     },
     {
-      "name": "网页前端",
+      "name": "数据科学",
       "keywords": [
       ]
     },
     {
-      "name": "数据科学",
+      "name": "网页前端",
       "keywords": [
       ]
     }
@@ -77,7 +72,7 @@
   ],
   "education": [
     {
-      "institution": "武汉科技大学",
+      "institution": "xxx",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
