@@ -5,11 +5,11 @@ image: images/vacay-square.png
 title: UrbanDict  
 permalink: projects/urbandict
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-09-16
 labels:
   - Javascript
   - Vue
-summary:轻量级 Urban Dictionary
+summary: 轻量级 Urban Dictionary
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
