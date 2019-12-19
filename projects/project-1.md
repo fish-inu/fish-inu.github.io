@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Popdict
+permalink: projects/popdict
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - chrome extension
+  - Javascript
+  - 阅读助手
+summary: 方便使用者阅读英文网站的谷歌插件
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,22 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+我开发这个插件的契机是，目前大多数英语阅读插件：
+- 接入的是机器翻译接口，只让使用者快速获得对应中文，不方便学习英语。
+- 接入了词典接口，但是只有一款词典，不能进行多款词典比对。
+- 有不必要的功能，促使我写适合个人使用的最佳可用产品（Most Viable Product）。
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+本插件没有采用返回 JSON 的 API，而是利用各大词典网站的 URL 直接打开当前选中单词页面，方便使用者查证并学习英语。
+此外，还增加了以下特性：
+- 页面进度
+- 暂时绕开个别英文媒体网站付费墙
 
-Here is some code that illustrates how we read values from the line sensors:
+通过开发该插件，我学到了：
+- 谷歌插件的项目结构以及相关文件的结构及作用。
+- 与本项目相关 JavaScript API 的内容
+- 与本项目相关 Chrome API 的内容。
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+你可以从[此处](http://)查看项目。
 
 
 
