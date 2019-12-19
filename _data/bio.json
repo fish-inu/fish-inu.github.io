@@ -66,70 +66,64 @@
         "Linux",
         "Ubuntu",
         "Git/GitHub",
-        "OmegaT"
+        "OmegaT",
+        "Microsoft Office"
       ]
     }
   ],
   "education": [
     {
       "institution": "xxx",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "area": "生物技术",
+      "studyType": "理学学士",
+      "startDate": "2014-09-01",
+      "endDate": "2018-07-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "xxx",
+      "area": "第二学位-英语",
+      "studyType": "文学学士",
+      "startDate": "2016-09-01",
+      "endDate": "2018-07-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "xxx",
+      "area": "英语笔译",
+      "studyType": "专业硕士研究生",
+      "startDate": "2018-09-01",
+      "endDate": "至今",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "话语",
+      "position": "数据采集人员",
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "summary": "在本课题中，我编写了相关 Python 代码，主要使用了 scrapy 框架、Beautifu Soup 和 Selenium，对国外主流媒体数据采集，收集课题相关的篇章，以便研究人员后续的语料库研究。",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "基于 Python 编写相关代码，对国外主流媒体数据采集。",
+        "文本预处理，包括文件名统一重命名、删减与目标不相关的部分、统计词数等。"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "软件开发人员",
+      "startDate": "2019-12-01",
+      "endDate": "至今",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
+        "在本项目中，我负责前后端的开发部分，前端采用 React 框架，后端采用 Flask 库，还使用了 Docker 来部署服务器。",
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
