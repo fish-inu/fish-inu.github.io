@@ -2,24 +2,24 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: UrbanDict  
+permalink: projects/urbandict
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Vue
+summary:轻量级 Urban Dictionary
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Urban Dictionary 官方网站方便我们学习英语俚语，但是网站目前尚未提供词条排序的功能。
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+因此我开发了这个基于 VUE 的网页应用，该应用利用 API 获取数据，并通过 Underscore.js 来实现词条排序，通过 Bootstrap 来润色交互界面。
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+此外本项目还有以下特性：
+- 词条查询自动补全
+- 使用 Vuex 来状态管理
+
+你可以从[此处]()查看项目。
