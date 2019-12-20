@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/urban-logo.png
 title: UrbanDict  
 permalink: projects/urbandict
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: 轻量级 Urban Dictionary
 ---
 
-<img class="ui medium rounded image" src="../images/urban-dict-preview.png">
+<img class="ui rounded image" src="../images/urban-dict-preview.png">
 
 Urban Dictionary 官方网站方便我们学习英语俚语，但是网站目前尚未提供词条排序的功能。
 
