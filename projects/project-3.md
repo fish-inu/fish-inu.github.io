@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/omegat-logo.png
 title: Pigeon Plugin
 permalink: projects/pigeon
 # All dates must be YYYY-MM-DD format!
