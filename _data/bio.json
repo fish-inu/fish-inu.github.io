@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "fish-inu",
-    "label": "研究生",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "label": "翻译硕士研究生",
+    "picture": "../images/shibainu.gif",
     "email": "blasthotcorn@protonmail.com",
-    "phone": "xxx-xxxx-xxxx",
+    "phone": "",
     "website": "",
-    "summary": "本科xxx, 生物技术专业，取得理学学士学位；本科期间辅修英语第二学位，取得文学学士学位；目前于xxx攻读翻译硕士研究生，预计2021年6月毕业。",
+    "summary": "我是一名翻译硕士研二研究生，目前于武汉科技大学就读，预计2021年6月毕业。在学习专业课的同时，我自学了 Python、JavaScript 以及相关的技术，认为技术能够为人服务，提高工作效率。我喜欢折腾，支持并参与开源社区活动。如果您感兴趣，可以查看 Project 以及 Resume 板块来了解我的详细信息，获悉我写了哪些文章，参与了哪些项目。",
     "location": {
       "address": "xxx",
       "postalCode": "430065",
