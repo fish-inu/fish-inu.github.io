@@ -2,7 +2,7 @@
   "basics": {
     "name": "fish-inu",
     "label": "翻译硕士研究生",
-    "picture": "images/myAvatar.png",
+    "picture": "/images/myAvatar.png",
     "email": "blasthotcorn@protonmail.com",
     "phone": "",
     "summary": "我是一名翻译硕士研二研究生，目前于武汉科技大学就读，预计2021年6月毕业。在学习专业课的同时，我自学了 Python、JavaScript 以及相关的技术，认为技术能够为人服务，提高工作效率。我喜欢折腾，平时浏览 GitHub、Reddit、Dev.to 等开发者社区来了解技术最新进展，支持并参与开源社区活动。如果您感兴趣，可以查看 Projects、Essays 以及 Resume 板块来了解我的详细信息",
