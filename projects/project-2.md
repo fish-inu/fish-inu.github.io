@@ -12,7 +12,7 @@ labels:
 summary: 轻量级 Urban Dictionary
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium rounded image" src="../images/urban-dict-preview.png">
 
 Urban Dictionary 官方网站方便我们学习英语俚语，但是网站目前尚未提供词条排序的功能。
 
@@ -21,5 +21,7 @@ Urban Dictionary 官方网站方便我们学习英语俚语，但是网站目前
 此外本项目还有以下特性：
 - 词条查询自动补全
 - dark mode
+- 按时间或点赞书排序
+- 高亮词条
 
-你可以从[此处]("https://")查看项目。
+你可以从[此处]("https://github.com/fish-inu/urbandict")查看项目。
