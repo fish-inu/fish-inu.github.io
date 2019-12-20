@@ -16,13 +16,13 @@
     "profiles": [
       {
         "network": "wechat",
-        "username": "梦雨",
-        "url": "id: jmywaitforoneyear"
+        "username": "id: jmywaitforoneyear",
+        "url": ""
       },
        {
         "network": "qq",
-        "username": "池鱼",
-        "url": "id: 997486621"
+        "username": "id: 997486621",
+        "url": ""
       },
       {
         "network": "github",
