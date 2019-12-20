@@ -2,60 +2,22 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Pigeon Plugin
+permalink: projects/pigeon
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-11-15
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Gradle
+  - OmegaT
+  - Plugin
+summary: 面向 OmegaT 的机器翻译插件
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+翻译实践中，译者利用翻译辅助软件（CAT）大大提高了任务效率，这是由于术语库（Glossary）、翻译记忆库（Translation Memory）以及机器翻译（Machine Translation）接口等的帮助。
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+其中，在机器翻译方面，在未获得 API Key 的情况下，多数使用者选择前往各大机器翻译网站输入源文档，然而这种方法对较大的翻译项目来说会降低效率。相比之下，翻译辅助软件预先对源文档进行了基于句子的切分，在有机器翻译接口的情况下能够实现句对句对应，之后译者再对其进行编辑，即译后编辑。
 
-To give you a flavor of the game, here is an excerpt from one run:
+本项目使用 Gradle 开发基于 Java 的机器翻译插件，适用于 Omegat。此外，本项目从网页应用角度着手开发，因此可以将该插件视作前端，并与另一提供机翻数据的后端项目结合，实现无 API 情况下的机器翻译。
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+你可以从[此处](https://github.com/fish-inu/omegat-pigeon-plugin)查看该项目。
