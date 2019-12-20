@@ -10,8 +10,6 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
-
 Sometimes you can not wrap your head around concepts from official doc when you just wanna try it out.
 
 Sometimes you are confused when people are engaged in lively conversations in the post or comments.
