@@ -2,13 +2,13 @@
   "basics": {
     "name": "fish-inu",
     "label": "翻译硕士研究生",
-    "picture": "../images/shibainu.gif",
+    "picture": "../images/myAvatar.png",
     "email": "blasthotcorn@protonmail.com",
     "phone": "",
     "website": "",
-    "summary": "我是一名翻译硕士研二研究生，目前于武汉科技大学就读，预计2021年6月毕业。在学习专业课的同时，我自学了 Python、JavaScript 以及相关的技术，认为技术能够为人服务，提高工作效率。我喜欢折腾，支持并参与开源社区活动。如果您感兴趣，可以查看 Project 以及 Resume 板块来了解我的详细信息，获悉我写了哪些文章，参与了哪些项目。",
+    "summary": "我是一名翻译硕士研二研究生，目前于武汉科技大学就读，预计2021年6月毕业。在学习专业课的同时，我自学了 Python、JavaScript 以及相关的技术，认为技术能够为人服务，提高工作效率。我喜欢折腾，平时浏览 GitHub、Reddit、Dev.to 等开发者社区来了解技术最新进展，支持并参与开源社区活动。如果您感兴趣，可以查看 Projects、Essays 以及 Resume 板块来了解我的详细信息",
     "location": {
-      "address": "xxx",
+      "address": "洪山区武汉科技大学黄家湖校区",
       "postalCode": "430065",
       "city": "武汉",
       "countryCode": "",
@@ -21,9 +21,14 @@
         "url": "http://github.com/fish-inu"
       },
       {
-        "network": "pencil alternate",
+        "network": "home",
         "username": "柴鱼",
         "url": "http://fish-inu.github.io/hexo"
+      },
+      {
+      "network": "pencil alternate",
+      "username": "rattlingshinuiba",
+      "url": "https://dev.to/rattlingshinuiba"
       }
     ]
   },
@@ -65,6 +70,7 @@
       "keywords": [
         "Ubuntu",
         "Git/GitHub",
+        "Markdown",
         "OmegaT",
         "Microsoft Office"
       ]
@@ -72,7 +78,7 @@
   ],
   "education": [
     {
-      "institution": "xxx",
+      "institution": "新乡医学院",
       "area": "生物技术",
       "studyType": "理学学士",
       "startDate": "2014-09-01",
@@ -82,7 +88,7 @@
       ]
     },
     {
-      "institution": "xxx",
+      "institution": "新乡医学院",
       "area": "第二学位-英语",
       "studyType": "文学学士",
       "startDate": "2016-09-01",
@@ -92,7 +98,7 @@
       ]
     },
     {
-      "institution": "xxx",
+      "institution": "武汉科技大学",
       "area": "英语笔译",
       "studyType": "专业硕士研究生",
       "startDate": "2018-09-01",
