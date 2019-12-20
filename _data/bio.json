@@ -15,6 +15,16 @@
     },
     "profiles": [
       {
+        "network": "wechat",
+        "username": "梦雨",
+        "url": "id: jmywaitforoneyear"
+      },
+       {
+        "network": "qq",
+        "username": "池鱼",
+        "url": "id: 997486621"
+      },
+      {
         "network": "github",
         "username": "fish-inu",
         "url": "http://github.com/fish-inu"
