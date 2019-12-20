@@ -13,11 +13,8 @@ labels:
 summary: 方便使用者阅读英文网站的谷歌插件
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/popdict-preview.png">
 </div>
 
 我开发这个插件的契机是，目前大多数英语阅读插件：
