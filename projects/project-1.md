@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/popdict-logo.png
 title: Popdict
 permalink: projects/popdict
 # All dates must be YYYY-MM-DD format!
@@ -13,9 +13,7 @@ labels:
 summary: 方便使用者阅读英文网站的谷歌插件
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/popdict-preview.png">
-</div>
+<img class="ui rounded image" src="../images/popdict-preview.png">
 
 我开发这个插件的契机是，目前大多数英语阅读插件：
 - 接入的是机器翻译接口，只让使用者快速获得对应中文，不方便学习英语。
@@ -32,7 +30,7 @@ summary: 方便使用者阅读英文网站的谷歌插件
 - 与本项目相关 JavaScript API 的内容
 - 与本项目相关 Chrome API 的内容。
 
-你可以从[此处](http://)查看项目。
+你可以从[此处](https://github.com/fish-inu/popdict)查看项目。
 
 
 
