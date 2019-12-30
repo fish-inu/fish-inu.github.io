@@ -24,4 +24,4 @@ Urban Dictionary 官方网站方便我们学习英语俚语，但是网站目前
 - 按时间或点赞书排序
 - 高亮词条
 
-你可以从[此处]("https://github.com/fish-inu/urbandict")查看项目。
+你可以从[此处](https://github.com/fish-inu/urbandict)查看项目。
